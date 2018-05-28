@@ -1,0 +1,17 @@
+{
+  "Candidate": [
+    {
+      "responseError": [
+        {
+          "errorCode": "50000",
+          "errorMessage": "Valid eligibility response not found for the member"
+        }
+      ],
+      "EmailID": "xxxxxxx@gmail.com",
+      "UUID": {
+        "id": "0018335447",
+        "Created Date": "05/24/2018"
+      }
+    }
+  ]
+}
